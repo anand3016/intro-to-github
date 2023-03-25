@@ -2,5 +2,9 @@ Hello World!
 
 Just Trying out Git.
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> e834b63e8c3493f0a285726987beaee0e9cc7bbf
 Add 1
 
